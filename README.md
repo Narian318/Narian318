@@ -12,8 +12,8 @@
 - 🏦 I worked at Group-B Gazetted Officer cadre in Ministry of Defence under Govt. of India, now iam looking for Devops (AWS) Roles prefer primarily for remote Jobs
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - please visit my website https://nn-profile.netlify.app <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> for my projects, certifications and more info.
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
+- 📝 I regulary write technical articles for [hashnode] (https://naren-cloud.hashnode.dev/)
+- 📖 
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
@@ -44,11 +44,12 @@
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [How to Choose The Right Database for Your Application](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
-- [SOLID Principles in Java](https://apoorvtyagi.tech/solid-principles-in-java)
-- [Introduction to Asynchronous Processing and Message Queues](https://apoorvtyagi.tech/introduction-to-asynchronous-processing-and-message-queues)
+- [nn-Projects-Summary](https://naren-cloud.hashnode.dev/nn-cv-projects)
+- [EKS-Githuactions: Tic-Tac-Toe Game App](https://naren-cloud.hashnode.dev/eks-githubactions-cicd-tic-toe-app)
+- [Deploy Robot(E-Commerce)Shop: 3-Tier App in Microservices](https://naren-cloud.hashnode.dev/3-tier-app-robot-shop-8-services-2-dbs)
+- [Deploy Static(Techmax)Website on Docker through Terraform](https://naren-cloud.hashnode.dev/static-website-docker-terraform)
+- [Deploy Python-Flask App on ECS cluster through Jenkins CI-CD](https://naren-cloud.hashnode.dev/python-flask-app-deploy-push-image-to-ecr)
+- [Deploy .Net WebApp on Docker Through Jenkins CI-CD](https://naren-cloud.hashnode.dev/dockerised-net-based-webapp-deployment-through-jenkins-cicd)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
