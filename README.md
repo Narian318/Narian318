@@ -52,7 +52,7 @@
 - [Deploy .Net WebApp on Docker Through Jenkins CI-CD](https://naren-cloud.hashnode.dev/dockerised-net-based-webapp-deployment-through-jenkins-cicd)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [... view more](https://apoorvtyagi.tech/)
+▶ [... view more](https://naren-cloud.hashnode.dev)(https://nn-profile.netlify.app)
 
 ---
 
