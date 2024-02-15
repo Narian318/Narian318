@@ -11,7 +11,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I worked at Group-B Gazetted Officer cadre in Ministry of Defence under Govt. of India, now iam looking for Devops (AWS) Roles prefer primarily for remote Jobs
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- please visit my website http://www.cv.naren-cloudsolutions.click <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> for my projects, certifications and more info.
+- please visit my website https://nn-profile.netlify.app <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> for my projects, certifications and more info.
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
 - 🧑‍💻 Tech I work on :
